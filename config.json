@@ -15,8 +15,15 @@
     },
     "backup-yingshi": {
       "api": "https://cj.rycjapi.com/api.php/provide/vod",
+      "name": "影视主线路"
+    },
+    "backup-yingshi2": {
+      "api": "https://bfzyapi.com/api.php/provide/vod",
+      "name": "影视备用线路"
+    },
+    "backup-yingshi3": {
+      "api": "http://caiji.dyttzyapi.com/api.php/provide/vod",
       "name": "影视备用线路"
     }
   }
 }
-
